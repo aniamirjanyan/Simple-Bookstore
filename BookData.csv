@@ -1,0 +1,20 @@
+ID,title,author,genre,price,copies,text
+1,Fundamentals of Wavelets,Goswami Jaideva,signal_processing,228,3,"Fundamentals of Wavelets offer a practical, up-to-date overview of wavelet theory from an engineering point of view"
+2,Data Smart,Foreman John,data_science,235,1,__text__
+3,God Created the Integers,Hawking Stephen,mathematics,197,1,__text__
+4,Superfreakonomics,Dubner Stephen,economics,179,0,HarperCollins
+5,Orientalism,Said Edward,history,197,4,Penguin
+6,Nature of Statistical Learning Theory,Vapnik Vladimir,data_science,230,2,Springer
+7,Integration of the Indian States,Menon V P,history,217,3,Orient Blackswan
+8,Drunkard's Walk,Mlodinow Leonard,science,197,1,Penguin
+9,Image Processing & Morphology,Shih Frank,signal_processing,241,1,CRC
+10,How to Think Like Sherlock Holmes,Konnikova Maria,psychology,240,0,Penguin
+11,Data Scientists at Work,Sebastian Gutierrez,data_science,230,4,Apress
+12,Slaughterhouse Five,Vonnegut Kurt,fiction,198,2,Random House
+13,Birth of a Theorem,Villani Cedric,mathematics,234,3,Bodley Head
+14,Interpretation of Computer Programs,Sussman Gerald,computer_science,240,1,MIT Press
+15,Age of Wrath,Eraly Abraham,history,238,1,Penguin
+16,The Trial,Kafka Frank,fiction,198,0,Random House
+17,Statistical Decision Theory',Pratt John,data_science,236,4,MIT Press
+18,Data Mining Handbook,Nisbet Robert,data_science,242,2,Apress
+19,New Machiavelli,Wells H. G.,fiction,180,4,Penguin
